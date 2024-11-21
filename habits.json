@@ -1,0 +1,33 @@
+
+[
+    {
+        "name": "Exercise",
+        "frequency": "daily",
+        "last_completed": "2024-11-20",
+        "streak": 10
+    },
+    {
+        "name": "Reading Book",
+        "frequency": "daily",
+        "last_completed": "2024-11-19",
+        "streak": 8
+    },
+    {
+        "name": "Practice German",
+        "frequency": "daily",
+        "last_completed": "2024-11-18",
+        "streak": 6
+    },
+    {
+        "name": "Meditation",
+        "frequency": "weekly",
+        "last_completed": "2024-11-15",
+        "streak": 3
+    },
+    {
+        "name": "Learning Python",
+        "frequency": "weekly",
+        "last_completed": "2024-11-14",
+        "streak": 4
+    }
+]
